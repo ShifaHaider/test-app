@@ -1,0 +1,14 @@
+{
+    "en": {
+        "EMAIL": "Email",
+        "ADDRESS": "Adress",
+        "CURRENCY": "Currency",
+        "LANGUAGE": "Language"
+    },
+    "ur": {
+        "EMAIL": "ای میل",
+        "ADDRESS": "ایڈریس",
+        "CURRENCY": "کرنسی",
+        "LANGUAGE": "زبان"
+    }
+}
